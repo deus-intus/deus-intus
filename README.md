@@ -7,7 +7,7 @@
 [![Verified Receipts](https://img.shields.io/badge/Receipts-27%2F27%20Cyber%20Essentials%20%26%20Pentest%20PASS-4ade80?style=for-the-badge)](https://deusintus.co.uk/insights)
 
 > **"Never let a probabilistic language model guess where deterministic code can verify."**  
-> — *Anthony Linton, Founder & Chief Architect, Deus Intus Ltd (Company No. 17209569 | UK Trade Mark No. UK00004416539)*
+> — *Anthon Linton, Founder & Chief Architect, Deus Intus Ltd (Company No. 17209569 | UK Trade Mark No. UK00004416539)*
 
 ---
 
