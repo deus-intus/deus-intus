@@ -35,4 +35,4 @@ Every repository below runs out-of-the-box with standard Python 3.9+ (`0` extern
 - **100% Model-Agnostic:** Swap freely between Anthropic Claude, OpenAI GPT, Google Gemini, Mistral, or **100% offline local AI** (£0 token tax).
 - **Zero Per-Seat Licences:** 100% Perpetual Client Code Ownership via statutory Deed of Assignment under UK IP Law. Air-gapped on-premise execution with zero recurring SaaS tolls.
 
-🔗 **[Explore the Live Portal (`deusintus.co.uk`)](https://deusintus.co.uk)** • **[Read the Compression & Gödel Thesis (`deusintus.co.uk/thesis`)](https://deusintus.co.uk/thesis)** • **[Inspect Verified System Receipts (`deusintus.co.uk/insights`)](https://deusintus.co.uk/insights)**
+🔗 **[Explore the Live Portal (`deusintus.co.uk`)](https://deusintus.co.uk)** • **[Configure Specification & Claim 1 of 50 Allocations (`deusintus.co.uk/intake`)](https://deusintus.co.uk/intake)** • **[Inspect Sovereign Pricing & Tiers (`deusintus.co.uk/private-access`)](https://deusintus.co.uk/private-access)** • **[Read the Compression & Gödel Thesis (`deusintus.co.uk/thesis`)](https://deusintus.co.uk/thesis)**
