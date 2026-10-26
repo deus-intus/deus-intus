@@ -17,6 +17,8 @@ Every repository below runs out-of-the-box with standard Python 3.9+ (`0` extern
 
 | Repository | Plain-English Purpose | Formal / Statutory Principle |
 | :--- | :--- | :--- |
+| **[`deus-3way-reconciler`](https://github.com/deus-intus/deus-3way-reconciler)** | Deterministic multi-source state reconciliation (`[I]==[S]==[C]`) preventing unauthorized invoice payment or database mutation. | IPS Invariant 3-Way Match (`#DI-3WAY-001`) |
+| **[`deus-kalman-demand-filter`](https://github.com/deus-intus/deus-kalman-demand-filter)** | Discrete-event 1D Kalman state estimator filtering erratic inventory demand spikes and routing orders to optimal market venues. | Adaptive Kalman Gain $K_k = P / (P + R)$ |
 | **[`deus-minimum-representation-compressor`](https://github.com/deus-intus/deus-minimum-representation-compressor)** | Strips **94.22%** of bloated ERP/JSON token noise before calling AI—running **75.51% faster** at **100.0% task accuracy** *(scoped to structured record/interface selection)*. | $R^* = \arg\min_R C(R)$ s.t. $F(R) \ge F_{\text{req}}$ (`#DI-CMP-942`) |
 | **[`deus-bounded-godel-gate`](https://github.com/deus-intus/deus-bounded-godel-gate)** | Solves the **Gödel Agent Self-Modification Paradox**. Allows AI workflows to improve in a sandbox while blocking any mutation of live safety, governance, or billing rules. | Tarski Meta-Hierarchy Separation $S_1 \succ S_0$ (`#DI-GODEL-C48`) |
 | **[`deus-uk-business-mcp`](https://github.com/deus-intus/deus-uk-business-mcp)** | Model Context Protocol (MCP) server for **Cursor** & **Claude Desktop**: exact HMRC UK VAT math, **3-Way PO Reconciliation (`[I]==[S]==[C]`)**, and **36-Month SaaS vs. Buyout ROI**. | HMRC VAT Notice 700 + IPS 3-Way Check (`#DI-3WAY-270`) |
